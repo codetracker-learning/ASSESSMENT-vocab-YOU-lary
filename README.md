@@ -10,7 +10,7 @@ In this student assessment, you will be creating an application that allows user
 
 ## Learning Objectives
 - Single Responsibility Principle (each component/function should have one job)
-- import/export modules
+- Import/Export modules
 - DOM manipulation with Vanilla JS
 - DOM querying with Vanilla JS
 - Representing data as HTML
