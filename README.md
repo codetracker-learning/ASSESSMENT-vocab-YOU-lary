@@ -25,6 +25,7 @@ In this student assessment, you will be creating an application that allows user
 - Axios for requests
 
 # MVP Requirements
+- [Here is the MVP Wireframe](https://www.figma.com/file/IW4jF3GnzCFLYbEXlgFNIZ/MVP?node-id=0%3A1)
 - An ERD of your data
 - Use Firebase for DB and authentication
 - Technical Flow chart (timebox this)
@@ -47,13 +48,15 @@ The most basic requirement for this project is that a user can:
 - DELETE entries
 - Filter by language/tech
 
-## Stretch
+## Stretch 1
+- [Here is the Stretch 1 Wireframe](https://www.figma.com/file/IW4jF3GnzCFLYbEXlgFNIZ/MVP?node-id=0%3A1)
 - Users can search vocabulary entries
 - Users can only see the vocabulary cards that they created
 - Users can add Language/Tech to the database and refrerence it on their vocabulary entries
 - Users can only see the Languages/Tech categories that they created
 
-## Even More Stretch
+## Stretch 2
+- [Here is the Stretch 2 Wireframe](https://www.figma.com/file/IW4jF3GnzCFLYbEXlgFNIZ/MVP?node-id=0%3A1)
 - Users can mark an entry as public or private
 - If an entry is public, anyone can view it. If it is private, only the user who created it can see it
 - If an entry is public, any user can copy the entry to their own set of entries and then CRUD on the new/copied entry
