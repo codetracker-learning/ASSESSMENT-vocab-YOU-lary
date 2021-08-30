@@ -2,7 +2,8 @@
 
 In this student assessment, you will be creating an application that allows users to CRUD vocabulary cards, authenticate with Google, and filter.
 
-REMINDER: from the instruction team. This is NOT A TEST. We are not looking for 100% completion, although if you can make it work completely, then wahoo!
+## REMINDER
+This is NOT A TEST. We are not looking for 100% completion, although if you can make it work completely, then wahoo!
 
 What we are looking for is effort, critical thinking about the concepts, creative thinking to bind the concepts together for a solution, and collaboration with your teammates and instruction team.
 
@@ -25,6 +26,8 @@ If you only get 50% of it complete, but display the above Core Skills and can de
 - dbdiagram.io for creating your ERD
 - Figma, google slides, or paper for flow charting your application
 - Axios for requests
+
+Make sure your Developer Tools are open at all times while working on this project. Use the messages provided in the Console to determine what code needs to be fixed or implemented, and use breakpoints in the Sources tab to step through your code as you debug.
 
 ## Get Started
 Use the checkboxes next to each item to keep track of what you have completed.
