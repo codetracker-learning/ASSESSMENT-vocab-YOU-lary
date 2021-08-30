@@ -53,14 +53,17 @@ In this student assessment, you will be creating an application that allows user
 - Filter by language/tech
 
 ## Stretch 1
-- [Stretch 1 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-1)
+- Allow users to order entries alphabetically, earliest, latest using buttons
+
+## Stretch 2
+- [Stretch 2 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-1)
 - Users can search vocabulary entries
 - Users can only see the vocabulary cards that they created
 - Users can add Language/Tech to the database and refrerence it on their vocabulary entries
 - Users can only see the Languages/Tech categories that they created
 
-## Stretch 2
-- [Stretch 2 Wireframe](https://www.figma.com/file/KgbkfaoRd5F8Q4qZ3G2Bg2/Stretch-2)
+## Stretch 3
+- [Stretch 3 Wireframe](https://www.figma.com/file/KgbkfaoRd5F8Q4qZ3G2Bg2/Stretch-2)
 - Users can mark an entry as public or private
 - If an entry is public, anyone can view it. If it is private, only the user who created it can see it
 - If an entry is public, any user can copy the entry to their own set of entries and then CRUD on the new/copied entry
