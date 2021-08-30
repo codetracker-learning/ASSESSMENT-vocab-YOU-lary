@@ -52,8 +52,6 @@ Use the checkboxes next to each item to keep track of what you have completed.
   - [ ] Logout button
   - [ ] Create Entry
   - [ ] Any other options you would like to add
-- [ ] Completed README
-- [ ] Loom Video (On your README)
 
 **The most basic requirement for this project is that a user can:**
 - [ ] Login and Logout of the application
