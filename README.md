@@ -45,8 +45,8 @@ In this student assessment, you will be creating an application that allows user
   - Title
   - Definition
   - Language/Tech
-  - Time submitted
-  - Author
+  - Time submitted - Not on form. Handle in your JS
+  - Author ID - Not on form. Pull from User object.
 - READ entries
 - UPDATE entries
 - DELETE entries
