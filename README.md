@@ -36,6 +36,8 @@ In this student assessment, you will be creating an application that allows user
   - Logout button
   - Create Entry
   - Any other options you would like to add
+- Completed README
+- Loom Video (On your README)
 
 The most basic requirement for this project is that a user can:
 - Login and Logout of the application
