@@ -49,7 +49,7 @@ The most basic requirement for this project is that a user can:
 - Filter by language/tech
 
 ## Stretch 1
-- [Stretch 1 Wireframe](https://www.figma.com/file/IW4jF3GnzCFLYbEXlgFNIZ/MVP?node-id=0%3A1)
+- [Stretch 1 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-1?node-id=0%3A1)
 - Users can search vocabulary entries
 - Users can only see the vocabulary cards that they created
 - Users can add Language/Tech to the database and refrerence it on their vocabulary entries
