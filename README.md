@@ -39,7 +39,7 @@ In this student assessment, you will be creating an application that allows user
 - Completed README
 - Loom Video (On your README)
 
-The most basic requirement for this project is that a user can:
+**The most basic requirement for this project is that a user can:**
 - Login and Logout of the application
 - CREATE a vocabulary entry:
   - Title
