@@ -28,6 +28,11 @@ In this student assessment, you will be creating an application that allows user
 - An ERD of your data
 - Use Firebase for DB and authentication
 - Technical Flow chart (timebox this)
+- The app has a navigation bar
+  - A logo
+  - Logout button
+  - Create Entry
+  - Any other options you would like to add
 
 The most basic requirement for this project is that a user can:
 - Login and Logout of the application
@@ -43,6 +48,7 @@ The most basic requirement for this project is that a user can:
 - Filter by language/tech
 
 ## Stretch
+- Users can search vocabulary entries
 - Users can only see the vocabulary cards that they created
 - Users can add Language/Tech to the database and refrerence it on their vocabulary entries
 - Users can only see the Languages/Tech categories that they created
