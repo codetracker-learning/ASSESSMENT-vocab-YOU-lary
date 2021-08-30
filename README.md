@@ -22,9 +22,15 @@ In this student assessment, you will be creating an application that allows user
 
 ## Get Started
 Use the checkboxes next to each item to keep track of what you have completed.
-- [ ] Use the webpack template to create the project on your github account
 - [ ] Setup your firebase project and create the `.env` file with your keys. (Reference the Firebase videos in CodeTracker if you need help getting started)
 - [ ] Plan your project. Take no more than an hour to plan (ERD, Flow Chart, Postman)
+- [ ] Use the webpack template to create the project on your github account
+- [ ] Make sure you are in your `workspace` directory
+- [ ] git clone {github repo SSH string}
+- [ ] cd into the directory it creates
+- [ ] npm install to install the testing library in your project
+- [ ] code . to open the project code
+- [ ] `npm start` to start your server
 - [ ] START CODING!
 
 # MVP Requirements
