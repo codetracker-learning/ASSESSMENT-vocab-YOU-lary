@@ -15,6 +15,8 @@ In this student assessment, you will be creating an application that allows user
 - DOM querying with Vanilla JS
 - Representing data as HTML
 - Usage of semantic HTML5 tags
+- Asynchronous Programming
+- Promises 
 
 ## Tools To Use:
 - Postman for API testing
