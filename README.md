@@ -51,15 +51,16 @@ In this student assessment, you will be creating an application that allows user
 - UPDATE entries
 - DELETE entries
 - Filter by language/tech
+- Style your application using your own creativity!
 
 ## Stretch 1
 - [Stretch 1 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-1)
-- Allow users to order entries alphabetically, earliest, latest using buttons
+- Allow users to order entries alphabetically, newest, oldest
 
 ## Stretch 2
 - [Stretch 2 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-2)
 - Users can search vocabulary entries
-- Users can only see the vocabulary cards that they created
+- Users can only see the vocabulary entries that they created
 - Users can add Language/Tech to the database and refrerence it on their vocabulary entries
 - Users can only see the Languages/Tech categories that they created
 
