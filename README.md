@@ -60,7 +60,7 @@ Use the checkboxes next to each item to keep track of what you have completed.
   - [ ] Definition
   - [ ] Language/Tech
   - [ ] Time submitted - Not on form. Handle in your JS
-  - [ ] Author ID - Not on form. Pull from User object.
+  - [ ] user ID - Not on form. Pull from User object.
 - [ ] READ entries
 - [ ] UPDATE entries
 - [ ] DELETE entries
