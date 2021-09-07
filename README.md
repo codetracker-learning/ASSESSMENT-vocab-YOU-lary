@@ -24,6 +24,7 @@ If you only get 50% of it complete, but display the above Core Skills and can de
 - Firebase for database, rules, and authentication
 - Webpack template (Located in your cohort repo)
 - dbdiagram.io for creating your ERD
+- Bootstrap 5 for styling
 - Figma, google slides, or paper for flow charting your application
 - Axios for requests
 
@@ -66,6 +67,7 @@ Use the checkboxes next to each item to keep track of what you have completed.
 - [ ] DELETE entries
 - [ ] Filter by language/tech
 - [ ] Style your application using your own creativity!
+- [ ] No errors - linters should be clean
 
 ## Stretch 1
 [Stretch 1 Wireframe](https://www.figma.com/file/yZE38QzpoUWELA22gGZJve/Stretch-1)
