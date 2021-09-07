@@ -24,9 +24,10 @@ If you only get 50% of it complete, but display the above Core Skills and can de
 - Firebase for database, rules, and authentication
 - Webpack template (Located in your cohort repo)
 - dbdiagram.io for creating your ERD
-- Bootstrap 5 for styling
 - Figma, google slides, or paper for flow charting your application
 - Axios for requests
+- Github projects/milestones for planning out work
+- Bootstrap 5 for styling
 
 Make sure your Developer Tools are open at all times while working on this project. Use the messages provided in the Console to determine what code needs to be fixed or implemented, and use breakpoints in the Sources tab to step through your code as you debug.
 
@@ -41,6 +42,7 @@ Use the checkboxes next to each item to keep track of what you have completed.
 - [ ] Run `npm install` to install your dependencies
 - [ ] Type `code .` to open the project in VS Code
 - [ ] `npm start` to start your server
+- [ ] Plan your project by creating the tickets you will work through using Github Projects
 - [ ] START CODING!
 
 # MVP Requirements
