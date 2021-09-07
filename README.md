@@ -68,7 +68,7 @@ Use the checkboxes next to each item to keep track of what you have completed.
 - [ ] Style your application using your own creativity!
 
 ## Stretch 1
-[Stretch 1 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-1)
+[Stretch 1 Wireframe](https://www.figma.com/file/yZE38QzpoUWELA22gGZJve/Stretch-1)
 - [ ] Allow users to order entries alphabetically, newest, oldest
 
 ## Stretch 2
