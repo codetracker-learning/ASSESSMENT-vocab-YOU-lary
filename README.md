@@ -57,7 +57,7 @@ Use the checkboxes next to each item to keep track of what you have completed.
   - [ ] Any other options you would like to add
 
 **The most basic requirement for this project is that a user can:**
-- [ ] Login and Logout of the application
+- [ ] Login and Logout of the application using Firebase Google Authentication
 - [ ] CREATE a vocabulary entry:
   - [ ] Title
   - [ ] Definition
